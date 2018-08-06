@@ -1,0 +1,7 @@
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\bin\Debug\QueryBuilderApp.exe.config
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\bin\Debug\QueryBuilderApp.exe
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\bin\Debug\QueryBuilderApp.pdb
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\obj\Debug\QueryBuilderApp.csprojAssemblyReference.cache
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\obj\Debug\QueryBuilderApp.csproj.CoreCompileInputs.cache
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\obj\Debug\QueryBuilderApp.exe
+E:\Projects\Courses GL\QueryBuilderApp\QueryBuilderApp\obj\Debug\QueryBuilderApp.pdb
